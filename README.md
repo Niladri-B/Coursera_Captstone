@@ -1,5 +1,5 @@
 # Coursera_Captstone
-## Project material for the final course
+## Project material for the final project- Clustering Analysis of Transport options in Oslo
 
 This repo has all the code associated with the various stages of the Capstone project for the IBM Data Science professional certification.
 For the final Capstone Project, we had to come up with our own ideas for using the Foursquare API which is a location data provider.
